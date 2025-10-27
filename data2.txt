@@ -1,1 +1,2 @@
 Some data entered in data2.txt
+some bug is fixed by dev-2
